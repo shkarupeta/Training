@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Training" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="999fa507-af12-48b3-8bad-96f3526214a7" name="Default Changelist" comment="Practice 1">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice1/ua/shkarupeta/training/practice1/Part7.class" afterDir="false" />
+    <list default="true" id="999fa507-af12-48b3-8bad-96f3526214a7" name="Default Changelist" comment="practice 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/shkarupeta/training/practice1/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/shkarupeta/training/practice1/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +48,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ua/nure/shkarupeta/practice1" />
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="C:\from ubuntu\java\epam\Practice1\resources\practice4" />
+      <recent name="C:\from ubuntu\java\epam\Practice1\src\ua\shkarupeta\training" />
+      <recent name="C:\from ubuntu\java\epam\Practice1\resources\practice3" />
+      <recent name="C:\from ubuntu\java\epam\Practice1\src\ua\shkarupeta\training\" />
+      <recent name="C:\from ubuntu\java\epam\Practice1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (2)">
+  <component name="RunManager" selected="Application.Part7">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.shkarupeta.training.practice1.Demo" />
-      <module name="Practice1" />
+      <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.shkarupeta.training.practice1.*" />
@@ -64,7 +79,7 @@
     </configuration>
     <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.shkarupeta.training.practice2.Demo" />
-      <module name="Practice1" />
+      <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.shkarupeta.training.practice2.*" />
@@ -76,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.nure.shkarupeta.practice1.Demo" />
-      <module name="Practice1" />
+      <option name="MAIN_CLASS_NAME" value="ua.shkarupeta.training.practice4.Demo" />
+      <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.nure.shkarupeta.practice1.*" />
+          <option name="PATTERN" value="ua.shkarupeta.training.practice4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.nure.shkarupeta.practice1.Part1" />
-      <module name="Practice1" />
+    <configuration name="Part4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.shkarupeta.training.practice1.Part4" />
+      <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.nure.shkarupeta.practice1.*" />
+          <option name="PATTERN" value="ua.shkarupeta.training.practice1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="Part7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.nure.shkarupeta.practice1.Part7" />
-      <module name="Practice1" />
+      <option name="MAIN_CLASS_NAME" value="ua.shkarupeta.training.practice1.Part7" />
+      <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.nure.shkarupeta.practice1.*" />
+          <option name="PATTERN" value="ua.shkarupeta.training.practice1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Part7" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Part4" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Part7" />
-        <item itemvalue="Application.Part1" />
       </list>
     </recent_temporary>
   </component>
@@ -354,42 +369,94 @@
       <option name="project" value="LOCAL" />
       <updated>1605114615019</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Practice 2">
+      <created>1605115793430</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1605115793430</updated>
+    </task>
+    <task id="LOCAL-00033" summary="small changes">
+      <created>1605116039874</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605116039874</updated>
+    </task>
+    <task id="LOCAL-00034" summary="practice 3">
+      <created>1605117292420</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1605117292420</updated>
+    </task>
+    <task id="LOCAL-00035" summary="practice 4">
+      <created>1605117650455</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1605117650455</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JTV-99&#10;Done." />
     <MESSAGE value="Practice 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice 1" />
+    <MESSAGE value="Practice 2" />
+    <MESSAGE value="small changes" />
+    <MESSAGE value="practice 3" />
+    <MESSAGE value="practice 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1605114701747">
+    <state x="184" y="103" key="DiffContextDialog" timestamp="1605115886189">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1605114701747" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1605114703264">
+    <state x="184" y="103" key="DiffContextDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1605115886189" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1605390275333">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1605114703264" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1605114703264">
+    <state x="740" y="295" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1605390275333" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1605737592024">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1605114703264" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1605114703264">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1605737592024" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1605737592024">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1605114703264" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1605114703264">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1605737592024" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1605737592024">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1605114703264" />
-    <state x="461" y="199" key="SettingsEditor" timestamp="1605112404932">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1605737592024" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1605737592024">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1605112404932" />
-    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1605114632117">
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1605737592024" />
+    <state x="461" y="199" key="SettingsEditor" timestamp="1605117107605">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="552" y="274" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1605114632117" />
+    <state x="461" y="199" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1605117107605" />
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2" timestamp="1605734586068">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="274" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1605734586068" />
+    <state x="777" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605734596455">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="777" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1920.1050@0.30.1920.1050" timestamp="1605734596455" />
   </component>
 </project>
