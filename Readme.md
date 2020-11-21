@@ -16,7 +16,7 @@ Run application using Demo.class
     >Print prime numbers count equals input arg
 * Part7  
     >Convert letters to numbers and back (alphabet numbers):  
-    >- get numbers from a letter(or a bunch of letters )
+    >- get number from a letter(or a bunch of letters )
     >- ger letter (or a bunch of letters) from number
 ### Practice2  
 Run application using Demo.class
